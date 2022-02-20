@@ -194,3 +194,15 @@ td, th {
 .utensilios {
 	width: 150px;
 }
+
+
+
+
+.mapa{
+	padding: 3em 0;
+}
+
+.mapa p {
+	text-align: center;
+	margin: 0 0 2em;
+}
