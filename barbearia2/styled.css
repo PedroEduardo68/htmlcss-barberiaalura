@@ -296,3 +296,31 @@ principal p:not(#missao) {  todos exeto o missao
 
 
 */
+
+
+@media screen and (max-width: 480px) {
+	.caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
+		width: auto;
+	}
+	 h1 {
+		 text-align: center;
+	 }
+	 nav {
+		 position: static;
+	 }
+
+	 .lista-benefificios, .imagem-beneficios{
+		 width: 100%;
+	 }
+
+
+	 /* Produtos */
+	 .produtos{
+		 width: auto;
+	 }
+
+	 .produtos li {
+		 display: block;
+	 }
+
+}
