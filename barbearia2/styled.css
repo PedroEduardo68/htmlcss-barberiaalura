@@ -270,4 +270,22 @@ td, th {
 	margin: 2em auto;
 }
 
+/*
+main > p { primeiro depois do pai MAIN
+	background: red;
+}
 
+img + p {  Primeiro irmao depois de uma imagem 
+	background: blue;
+}
+
+img ~ p {  todos depois de uma imagem 
+	background: blue;
+}
+
+principal p:not(#missao) {  todos exeto o missao
+	backgroud: orange;
+}
+
+
+*/
